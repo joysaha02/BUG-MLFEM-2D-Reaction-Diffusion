@@ -1,2 +1,9 @@
 # BUG-MLFEM-2D-Reaction-Diffusion
-Code for "Low-cost non-iterative Sylvester solvers of basis-update &amp; Galerkin integrators for reaction-diffusion equations"
+
+LOW-COST NON-ITERATIVE SYLVESTER SOLVERS OF BASIS-UPDATE & GALERKIN INTEGRATORS FOR REACTION-DIFFUSION EQUATIONS
+
+Joy Saha, Jun Yang, Peimeng Yin
+
+Paper: https://arxiv.org/abs/2610.18419
+
+Code will be available soon.
